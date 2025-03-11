@@ -23,3 +23,5 @@ Solution:
     return []; 
 }
 </code>
+
+Bonus: Solve it in O(n) time complexity.
