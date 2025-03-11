@@ -1,5 +1,8 @@
 # interview-questions
 
+Menu:
+- [Two Sum Problem](#two-sum-problem)
+
 Two Sum Problem
 
 Problem:
