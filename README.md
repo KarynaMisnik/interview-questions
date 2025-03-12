@@ -4,7 +4,7 @@ Menu:
 [Two Sum Problem](#two-sum-problem)
 [Valid Anagram](#valid-anagram)
 
-Two Sum Problem
+## Two Sum Problem
 
 Problem:
 Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to target.
@@ -43,7 +43,7 @@ Bonus: Solve it in O(n) time complexity.
     }
 </code>
 
-Valid Anagram
+## Valid Anagram
 
 Problem:
 Given two strings, s and t, determine if t is an anagram of s.
