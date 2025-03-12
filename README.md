@@ -58,6 +58,12 @@ Constraints:
 > Both s and t consist of lowercase English letters.
 > The lengths of s and t can be different.
 
+Solution:
+function isAnagram(s, t) {
+    if (s.length !== t.length) return false;
+    return s.split('').sort().join('') === t.split('').sort().join('');
+}
+
 
 
 
