@@ -53,7 +53,10 @@ Output: True
 </code>
 
 
+Constraints:
 
+> Both s and t consist of lowercase English letters.
+> The lengths of s and t can be different.
 
 
 
