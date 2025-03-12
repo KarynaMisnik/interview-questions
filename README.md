@@ -48,8 +48,9 @@ Problem:
 Given two strings, s and t, determine if t is an anagram of s.
 An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once.
 
-
-
+<code>Input: s = "listen", t = "silent"  
+Output: True
+</code>
 
 
 
