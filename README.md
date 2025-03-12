@@ -67,7 +67,7 @@ function isAnagram(s, t) {
 }
 </code>
 
-
+ Bonus: O(n) time complexity 
 
 
 
