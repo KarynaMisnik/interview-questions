@@ -77,9 +77,9 @@ function isAnagram(s, t) {
     }
     for (let char of t) {
         if (!count[char]) return false; 
-        count[char]--; // Decrease count
+        count[char]--; 
     }
-    return true; // If all counts match, it's an anagram
+    return true; 
 }
 </code>
 
