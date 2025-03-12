@@ -1,7 +1,7 @@
 # interview-questions
 
 Menu:
-- [Two Sum Problem](#two-sum-problem)
+[Two Sum Problem](#two-sum-problem)
 
 Two Sum Problem
 
@@ -41,3 +41,36 @@ Bonus: Solve it in O(n) time complexity.
     return []; 
     }
 </code>
+
+Valid Anagram
+
+Problem:
+Given two strings, s and t, determine if t is an anagram of s.
+An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
