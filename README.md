@@ -2,6 +2,7 @@
 
 Menu:
 [Two Sum Problem](#two-sum-problem)
+[Valid Anagram](#valid-anagram)
 
 Two Sum Problem
 
