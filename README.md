@@ -1,6 +1,6 @@
 # Interview questions
 
-<strong>Menu:<\strong>
+<strong>Menu:</strong>
 
 [Two Sum Problem](#two-sum-problem)
 
