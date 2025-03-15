@@ -46,7 +46,7 @@ Output: [0, 1]  # Because nums[0] + nums[1] = 2 + 7 = 9
 
 ## Valid Anagram
 
-Problem:
+#### Problem:
 Given two strings, s and t, determine if t is an anagram of s.
 An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once.
 
@@ -54,13 +54,12 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 Output: True
 </code>
 
-
-Constraints:
+#### Constraints:
 
 > Both s and t consist of lowercase English letters.
 > The lengths of s and t can be different.
 
-Solution:
+#### Solution:
 
 <code>
 function isAnagram(s, t) {
@@ -69,7 +68,7 @@ function isAnagram(s, t) {
 }
 </code>
 
- Bonus: O(n) time complexity 
+ #### Bonus: O(n) time complexity 
 
 <code>function isAnagram(s, t) {
     if (s.length !== t.length) return false; 
