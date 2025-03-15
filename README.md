@@ -1,4 +1,4 @@
-# interview-questions
+# Interview questions
 
 Menu:
 [Two Sum Problem](#two-sum-problem)
